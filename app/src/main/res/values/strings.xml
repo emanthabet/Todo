@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="titleRes">Warning</string>
+    <string name="content">you are leaving</string>
+    <string name="okay">ok</string>
+    <string name="sucess">success</string>
+    <string name="you_added_it">you added this item successfully</string>
+    <string name="ok">ok</string>
+    <string name="you_updated_it">you updated it</string>
+    <string name="update">update</string>
+    <string name="item_deleted">this item was deleted</string>
+    <string name="undo">undo</string>
+</resources>
